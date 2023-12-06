@@ -1,0 +1,106 @@
+{
+	"version": "4.5.6",
+	"flags": {},
+	"shapes": [
+		{
+			"label": "Cyclist",
+			"points": [
+				[
+					2026,
+					1037
+				],
+				[
+					2064,
+					1128
+				]
+			],
+			"group_id": null,
+			"shape_type": "rectangle",
+			"flags": {}
+		},
+		{
+			"label": "Pedestrian",
+			"points": [
+				[
+					2017,
+					1036
+				],
+				[
+					2049,
+					1122
+				]
+			],
+			"group_id": null,
+			"shape_type": "rectangle",
+			"flags": {}
+		},
+		{
+			"label": "Tram",
+			"points": [
+				[
+					2117,
+					959
+				],
+				[
+					2300,
+					1142
+				]
+			],
+			"group_id": null,
+			"shape_type": "rectangle",
+			"flags": {}
+		},
+		{
+			"label": "Tram",
+			"points": [
+				[
+					2299,
+					1023
+				],
+				[
+					2364,
+					1097
+				]
+			],
+			"group_id": null,
+			"shape_type": "rectangle",
+			"flags": {}
+		},
+		{
+			"label": "Car",
+			"points": [
+				[
+					2343,
+					1025
+				],
+				[
+					2531,
+					1181
+				]
+			],
+			"group_id": null,
+			"shape_type": "rectangle",
+			"flags": {}
+		},
+		{
+			"label": "Tram",
+			"points": [
+				[
+					2361,
+					1021
+				],
+				[
+					2401,
+					1055
+				]
+			],
+			"group_id": null,
+			"shape_type": "rectangle",
+			"flags": {}
+		}
+	],
+	"imagePath": "day-03219.jpg",
+	"imageData": null,
+	"imageHeight": 1856,
+	"imageWidth": 2880
+}
